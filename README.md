@@ -4,12 +4,15 @@ This project analyzes sales performance, product behavior and inventory risk usi
 
 The goal is to provide decision-makers with a clear overview of revenue, margins, returns and stock levels in order to support commercial and operational decisions.
 
-## Data Preparation & Modeling
 
-- Data cleaning and transformation performed in Power Query.
-- Creation of reusable parameters to easily change the data source path.
-- Relational data model built to connect sales, products and inventory tables.
-- DAX measures created for KPIs such as sales, margin, return rate and stock deviation.
+## Technical Highlights
+
+- Dashboard layout and background designed using **Figma** to improve visual consistency and readability.
+- Data cleaning and transformation performed in **Power Query**.
+- Creation of **reusable parameters** to easily change the data source path.
+- Relational **data model** built to connect sales, products and inventory tables.
+- **DAX measures** created for KPIs such as sales, margin, return rate and stock deviation.
+
 
 ## Business Questions
 
