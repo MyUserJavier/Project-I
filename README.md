@@ -41,18 +41,21 @@ https://app.powerbi.com/links/Ug3p674xjR?ctid=4f8623a1-9f7e-467a-9aeb-9e09ed8e15
 ### 1. Sales Performance Overview
 Executive view of sales, margins, categories and countries.
 
-(<Captura de pantalla 2026-02-01 164617.png>)
+![Sales page](<Captura de pantalla 2026-02-01 164617.png>)
+
+---
 
 ### 2. Product Analysis
 Product-level sales, returns, margins and risk analysis.
 
-(<Captura de pantalla 2026-02-01 164655.png>)
+![Product page](<Captura de pantalla 2026-02-01 164655.png>)
+
+---
 
 ### 3. Stock Analysis
 Current inventory snapshot highlighting products below reorder point.
-(<Captura de pantalla 2026-02-01 164725.png>)
 
-
+![Stock page](<Captura de pantalla 2026-02-01 164725.png>)
 
 
 
