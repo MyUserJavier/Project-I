@@ -50,11 +50,12 @@ Current inventory snapshot highlighting products below reorder point.
 ## Dashboard Screenshots
 
 ### Sales Performance Overview
-![Sales page](Captura de pantalla 2026-02-01 164617.png)
+![Sales page](<Captura de pantalla 2026-02-01 164617.png>)
 
 ### Product Analysis
-![Product page](Captura de pantalla 2026-02-01 164655.png)
+![Product page](<Captura de pantalla 2026-02-01 164655.png>)
 
 ### Stock Analysis
-![Stock page](Captura de pantalla 2026-02-01 164725.png)
+![Stock page](<Captura de pantalla 2026-02-01 164725.png>)
+
 
