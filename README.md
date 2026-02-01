@@ -46,3 +46,15 @@ Product-level sales, returns, margins and risk analysis.
 
 ### 3. Stock Analysis
 Current inventory snapshot highlighting products below reorder point.
+
+## Dashboard Screenshots
+
+### Sales Performance Overview
+![Sales page](Captura de pantalla 2026-02-01 164617)
+
+### Product Analysis
+![Product page](Captura de pantalla 2026-02-01 164655)
+
+### Stock Analysis
+![Stock page](Captura de pantalla 2026-02-01 164725)
+
