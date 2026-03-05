@@ -14,7 +14,7 @@ The goal is to provide decision-makers with a clear overview of revenue, margins
 - **DAX measures** created for KPIs such as sales, margin, return rate and stock deviation.
 
 
-  ## Tools
+## Tools
 - Power BI
 - Power Query
 - DAX
@@ -43,6 +43,7 @@ This project uses a corporate-style dataset (AdventureWorks / Contoso Retail) to
 - How many products are affected by low stock?
 - Are stock issues concentrated in specific categories?
 - What margin could be at risk due to low stock levels?
+
 
 ## Power BI Report
 
