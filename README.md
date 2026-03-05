@@ -13,11 +13,13 @@ The goal is to provide decision-makers with a clear overview of revenue, margins
 - Relational **data model** built to connect sales, products and inventory tables.
 - **DAX measures** created for KPIs such as sales, margin, return rate and stock deviation.
 
+
   ## Tools
 - Power BI
 - Power Query
 - DAX
 - Figma
+  
 
 ## Dataset
 This project uses a corporate-style dataset (AdventureWorks / Contoso Retail) to analyse sales performance, product behaviour and inventory risk.
@@ -47,6 +49,7 @@ This project uses a corporate-style dataset (AdventureWorks / Contoso Retail) to
 The report has been published in Power BI Service and can be accessed online here:
 
 https://app.powerbi.com/links/Ug3p674xjR?ctid=4f8623a1-9f7e-467a-9aeb-9e09ed8e15b0&pbi_source=linkShare
+
 
 ## Dashboard Pages
 
